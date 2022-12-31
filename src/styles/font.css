@@ -1,0 +1,15 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/Baloo2SemiBold.ttf"); font-family : "Baloo 2"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/UbuntuBold.ttf"); font-family : "Ubuntu"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/TelexRegular.ttf"); font-family : "Telex"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/BalooBhai2Medium.ttf"); font-family : "Baloo Bhai 2"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/BalooBhai2SemiBold.ttf"); font-family : "Baloo Bhai 2"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/TomorrowMedium.ttf"); font-family : "Tomorrow"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/MerriweatherBold.ttf"); font-family : "Merriweather"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/AkayaKanadakaRegular.ttf"); font-family : "Akaya Kanadaka"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/Baloo2Medium.ttf"); font-family : "Baloo 2"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/TiroBanglaRegular.ttf"); font-family : "Tiro Bangla"; font-weight : 400;  }
+ @font-face { font-style : italic; src: url("assets/fonts/TiroBanglaItalic.ttf"); font-family : "Tiro Bangla"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/Baloo2Regular.ttf"); font-family : "Baloo 2"; font-weight : 400;  }
